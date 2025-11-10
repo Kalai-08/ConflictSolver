@@ -1,2 +1,2 @@
 Let's see how the conflicts works and how to solve it using manual way
-City : colombo
+City : Jaffna
